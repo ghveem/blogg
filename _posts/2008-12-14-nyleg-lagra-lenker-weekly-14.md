@@ -1,0 +1,34 @@
+---
+ID: 310
+post_title: 'Nyleg  lagra  lenker  (weekly)'
+author: Guttorm
+post_date: 2008-12-14 01:33:00
+post_excerpt: ""
+layout: post
+permalink: >
+  http://guttorm.hveem.no/blogg/2008/12/nyleg-lagra-lenker-weekly-14/
+published: true
+blogger_blog:
+  - guttorm1979.blogspot.com
+blogger_author:
+  - >
+    Guttorm
+    Hveemhttp://www.blogger.com/profile/16825705109380499953noreply@blogger.com
+blogger_permalink:
+  - /2008/12/nyleg-lagra-lenker-weekly.html
+tweetbackscheck:
+  - "1309918159"
+shorturls:
+  - 'a:7:{s:9:"permalink";s:67:"http://guttorm.hveem.no/blogg/2008/12/nyleg-lagra-lenker-weekly-14/";s:7:"tinyurl";s:25:"http://tinyurl.com/b36rzn";s:4:"isgd";s:17:"http://is.gd/hsf6";s:5:"bitly";s:18:"http://bit.ly/OtAf";s:5:"snipr";s:22:"http://snipr.com/aubju";s:5:"snurl";s:22:"http://snurl.com/aubju";s:7:"snipurl";s:24:"http://snipurl.com/aubju";}'
+twittercomments:
+  - 'a:0:{}'
+tweetcount:
+  - "0"
+tmac_last_id:
+  - "88260845229965312"
+dsq_thread_id:
+  - "691871531"
+post_views_count:
+  - "665"
+---
+<ul class='diigo-linkroll'><li><p class='diigo-link'><a rel='nofollow' href='http://www.yteach.co.uk/index.php/misc/aboutus'>yTeach - Teaching resources and tools</a></p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/læringsressurs'>læringsressurs</a>, <a href='http://www.diigo.com/user/guttorm1979/naturfag'>naturfag</a>, <a href='http://www.diigo.com/user/guttorm1979/kjemi'>kjemi</a>, <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/lms'>lms</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://lreforschools.eun.org:8080/LRE-Portal/Index.iface'>LRE Portal</a></p><p class='diigo-description'>Welcome to the Learning Resource Exchange (LRE) portal for schools where you can find open educational resources and assets from many different countries and providers, including 16 Ministries of Education.</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/læringsressurs'>læringsressurs</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://junebre.blogspot.com/2008/12/gen-y.html'>Tanker: Gen Y</a></p><p class='diigo-description'>om skule/elevar i framtida</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/ikt-ped'>ikt-ped</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://wo.uio.no/as/WebObjects/avis.woa/wa/visArtikkel?id=49050&del=infousit'>it-avisa@usit.uio.no - Utfordringer i Web 2.0</a></p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/anonymitet'>anonymitet</a>, <a href='http://www.diigo.com/user/guttorm1979/web2.0'>web2.0</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://wo.uio.no/as/WebObjects/avis.woa/wa/visArtikkel?id=49049&del=infousit'>it-avisa@usit.uio.no - Utfordring: Skriv for web</a></p><p class='diigo-description'>tips til skrivereglar for web</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/norsk'>norsk</a>, <a href='http://www.diigo.com/user/guttorm1979/web2.0'>web2.0</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://docs.google.com/View?docid=dff97hb5_191cfqkmvz2'>Oppgave i kildebruk og kildekritikk</a></p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/norsk'>norsk</a>, <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/kildekritikk'>kildekritikk</a>, <a href='http://www.diigo.com/user/guttorm1979/kjeldekritikk'>kjeldekritikk</a>, <a href='http://www.diigo.com/user/guttorm1979/kilder'>kilder</a>, <a href='http://www.diigo.com/user/guttorm1979/kjelder'>kjelder</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://tanketraader-ingunn.blogspot.com/2008/12/kildebruk-og-kildekritikk.html'>Tanketråder fra en lektors hverdag: Kildebruk og kildekritikk</a></p><p class='diigo-description'>Nyttig om kjeldekritikk og kjeldebruk</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/norsk'>norsk</a>, <a href='http://www.diigo.com/user/guttorm1979/kildekritikk'>kildekritikk</a>, <a href='http://www.diigo.com/user/guttorm1979/kjeldekritikk'>kjeldekritikk</a>, <a href='http://www.diigo.com/user/guttorm1979/kilder'>kilder</a>, <a href='http://www.diigo.com/user/guttorm1979/kjelder'>kjelder</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://www.iallenkelhet.no/10-tips-for-innspilt-tale-eller-podcast'>10 tips for innspilt tale eller podcast hos IAllenkelhet - Fagblogg om brukervennlighet skrevet av NetLife Research</a></p><p class='diigo-description'>10 tips for innspilt tale eller podcast </p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/podcasting'>podcasting</a></p><li><p class='diigo-link'><a rel='nofollow' href='http://www.slideshare.net/ryanbretag/web20comics?type=powerpoint'>Web20comics - SlideShare</a></p><p class='diigo-description'>web 2.0 comics, teikneseriar</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/web2.0'>web2.0</a>, <a href='http://www.diigo.com/user/guttorm1979/morro'>morro</a></p></ul><br />Posted from <a href='http://www.diigo.com'>Diigo</a>. The rest of my favorite links are <a href='http://www.diigo.com/user/guttorm1979'>here</a>.

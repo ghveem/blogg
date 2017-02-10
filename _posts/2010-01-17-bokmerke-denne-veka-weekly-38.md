@@ -1,0 +1,29 @@
+---
+ID: 943
+post_title: 'Bokmerke  denne  veka  (weekly)'
+author: Guttorm
+post_date: 2010-01-17 02:32:48
+post_excerpt: ""
+layout: post
+permalink: >
+  http://guttorm.hveem.no/blogg/2010/01/bokmerke-denne-veka-weekly-38/
+published: true
+tweetbackscheck:
+  - "1309856617"
+shorturls:
+  - 'a:4:{s:9:"permalink";s:68:"http://guttorm.hveem.no/blogg/2010/01/bokmerke-denne-veka-weekly-38/";s:7:"tinyurl";s:26:"http://tinyurl.com/yjjxu84";s:4:"isgd";s:18:"http://is.gd/7C5xW";s:5:"bitly";s:20:"http://bit.ly/ah4Uu8";}'
+twittercomments:
+  - 'a:0:{}'
+tweetcount:
+  - "0"
+tmac_last_id:
+  - "88260845229965312"
+dsq_thread_id:
+  - "431368252"
+post_views_count:
+  - "518"
+---
+<ul class='diigo-linkroll'><li><p class='diigo-link'><a rel='nofollow' href='http://www.dinside.no/php/art.php?id=832642?title=De kan lese meldingene dine'>Facebooktilsette lesa meldingane dine</a></p><p class='diigo-description'>Dei som jobber i facebook kan sjølvsagt lesa meldingane dine, finna ut kven du er ven med og oppdatera statusen din - viss dei vil.</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/nettvett'>nettvett</a>, <a href='http://www.diigo.com/user/guttorm1979/dubestemmer'>dubestemmer</a>, <a href='http://www.diigo.com/user/guttorm1979/facebook'>facebook</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://evabra.wordpress.com/2009/12/17/hvordan-legge-til-rette-for-innovasjon-og-kreativitet-i-bedriften/?title=Hvordan legge til rette for innovasjon og kreativitet i bedriften?'>Hvordan legge til rette for innovasjon og kreativitet i bedriften? « Eva 2.0</a></p><p class='diigo-description'>50 punkt om korleis ein innovativ og kreativ bedrift bør være.</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-ped'>ikt-ped</a>, <a href='http://www.diigo.com/user/guttorm1979/skole'>skole</a>, <a href='http://www.diigo.com/user/guttorm1979/undervisning'>undervisning</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://evabra.wordpress.com/2009/12/31/a-ta-gode-notater/?title=Å ta gode notater'>Å ta gode notater « Eva 2.0</a></p><p class='diigo-description'>praktiske tips om korleis ein tek betre notat</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/norsk'>norsk</a>, <a href='http://www.diigo.com/user/guttorm1979/studieteknikk'>studieteknikk</a>, <a href='http://www.diigo.com/user/guttorm1979/ikt-ped'>ikt-ped</a>, <a href='http://www.diigo.com/user/guttorm1979/onenote'>onenote</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://evabra.wordpress.com/2010/01/11/10-ting-du-kan-gj%C3%B8re-nar-det-bare-er-igjen-5-min-av-timen/?utm_source=twitterfeed&utm_medium=twitter'>10 ting du kan gjøre når det bare er igjen 5 min av timen « Eva 2.0</a></p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/inspiration'>inspiration</a>, <a href='http://www.diigo.com/user/guttorm1979/undervisning'>undervisning</a>, <a href='http://www.diigo.com/user/guttorm1979/Tips'>Tips</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://feedproxy.google.com/~r/Makeuseof/~3/JWnPM4XgPYc/?title=Some More GTD & Personal Productivity With TimeGT'>Some More GTD & Personal Productivity With TimeGT</a></p><p class='diigo-description'>What do David Allen, Dwight Eisenhower and Stephen Covey have in common? Apart from believing in the ‘time as a virtue’ maxim, and practicing it, I can’t</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/gtd'>gtd</a>, <a href='http://www.diigo.com/user/guttorm1979/verktøy'>verktøy</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://www.igniterealtime.org/projects/openfire/index.jsp'>Ignite Realtime: Openfire Server</a></p><p class='diigo-description'>Samarbeidsserver</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/server'>server</a>, <a href='http://www.diigo.com/user/guttorm1979/samarbeid'>samarbeid</a>, <a href='http://www.diigo.com/user/guttorm1979/verktøy'>verktøy</a>, <a href='http://www.diigo.com/user/guttorm1979/Friprog'>Friprog</a></p><ul class='diigo-highlights'><li><div class="diigoContent"><div class="diigoContentInner"><div id="ignite_bigpanel" style="display: block;">
+				<div id="ignite_bigpanel_content">
+					<h1 class="openfire">Openfire <span>3.6.4</span></h1>
+					<p>Openfire is a real time collaboration (RTC) </p></div></div></div></div></li><li><div class="diigoContent"><div class="diigoContentInner">Jabber</div></div></li></ul></li><li><p class='diigo-link'><a rel='nofollow' href='http://www.dinside.no/php/art.php?id=832414?title=Comodo Time Machine'>Comodo Time Machine</a></p><p class='diigo-description'>Verktøy for backup (WIN)</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/backup'>backup</a>, <a href='http://www.diigo.com/user/guttorm1979/Programvare'>Programvare</a></p></li></ul><br />Posted from <a href='http://www.diigo.com'>Diigo</a>. The rest of my <a href='http://www.diigo.com/user/guttorm1979'>favorite links</a> are here.

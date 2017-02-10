@@ -1,0 +1,34 @@
+---
+ID: 294
+post_title: 'Oppdatert  2:  Skolen  i  digital  utvikling,  Lillestrøm  13.-14.11'
+author: Guttorm
+post_date: 2008-11-15 14:22:00
+post_excerpt: ""
+layout: post
+permalink: 'http://guttorm.hveem.no/blogg/2008/11/oppdatert-2-skolen-i-digital-utvikling-lillestr%c3%b8m-13-1411/'
+published: true
+blogger_blog:
+  - guttorm1979.blogspot.com
+blogger_author:
+  - >
+    Guttorm
+    Hveemhttp://www.blogger.com/profile/16825705109380499953noreply@blogger.com
+blogger_permalink:
+  - >
+    /2008/11/skolen-i-digital-utvikling-lillestrm-13_15.html
+tweetbackscheck:
+  - "1309884271"
+shorturls:
+  - 'a:8:{s:9:"permalink";s:101:"http://guttorm.hveem.no/blogg/2008/11/oppdatert-2-skolen-i-digital-utvikling-lillestr%c3%b8m-13-1411/";s:7:"tinyurl";s:25:"http://tinyurl.com/a9q4rc";s:4:"isgd";s:17:"http://is.gd/h2iM";s:5:"bitly";s:18:"http://bit.ly/xAtP";s:5:"snipr";s:22:"http://snipr.com/amqqr";s:5:"snurl";s:22:"http://snurl.com/amqqr";s:7:"snipurl";s:24:"http://snipurl.com/amqqr";s:4:"trim";s:17:"http://tr.im/c7u1";}'
+twittercomments:
+  - 'a:1:{i:1144114374;s:7:"retweet";}'
+tweetcount:
+  - "1"
+tmac_last_id:
+  - "88260845229965312"
+dsq_thread_id:
+  - "349483617"
+post_views_count:
+  - "2805"
+---
+<div xmlns='http://www.w3.org/1999/xhtml'>Har nett returnert frå <a href='http://videre.ntnu.no/pages/mastergrader/skoleledelse/skolen_i_digital_utvikling/program/;jsessionid=59F521BAD60D5573849306A743A111F7' target='_blank'>skuleleiarkonferansen arrangert av NTNU</a> på Lillestrøm. <br />Kort oppsummert vart det ein del fagleg påfyll og idear. Det var nokre verkeleg gode føredrag:<br /><ul><li>"... et avgjørende øyeblikk i utdanningens historie..." -Ledelse i den digitale skolen. med opplæringsdirektør Svein-Erik Fjeld, Hordaland fylkeskommune. Mange gode tankar og perspektiv. Stikkord: engasjement, glede, delingskultur. (Godt referat hos <a target='_blank' href='http://junebre.blogspot.com/2008/11/personvernkommisjonen.html'>June</a>)<br /><br /></li><li>Hvordan kan bruk av digitale læringsplattformer gi bedre læring til elevene? med Prosjektleder Egil Hartberg, Høgskolen i Lillehammer. Praktisk og konkret retta mot det ein kan få til. "Best practice". Framhever kontekstar der ein har ein meirverdi, t.d. prosessorientert skriving, samansette tekstar og digitale mapper.<br /><br /></li><li>"The future is not what it used to be" og oppfølgingssesjonen med Mike Butler, <a href='http://www.djanogly.notts.sch.uk/About%20Us/default.aspx' target='_blank'>Djanogly City Academy</a>, Nottingham.<br />Verkeleg interessant. Haldningar, motivasjon, delingskultur, engasjement. Lærar som fagleg autoritet. Learning by failing. Fokus på infrastruktur. Læring skjer der folk møtest (men ikkje nødvendigvis på skulen). Strategiske partnerskap med forskningsmiljø og hardware/software-miljø. Formell vs. uformell læring. "The guy at the top thinks this is important." Elevar og lærarar som ekspertar og hjelparar. Ansvar for deling. Personal: Ansvar for å sjølv læra seg det ein må kunna (basiskunnskap). Fast avsatt rom og tid for vidareutvikling av kompetanse. Læring skjer gjerne med støtte i dingsar, ikkje nødvendigvis eigen pc. Såg endeleg mange elevar som brukte mindmanager, sjeldent syn!! Dei brukte <a href='http://www.microsoft.com/norge/utdanning/default.mspx' target='_blank'>Microsoft Learning Gateway</a> for å sy saman/samla ressursar og relevant stoff. Utstrakt bruk av tablet. Det merka Jan frå <a href='http://www.snorredata.no/' target='_blank'>Snorre data</a> på etterspørselen etterpå...<br /></li></ul>Det var prata om innføring av nasjonale testar i digital kompetanse. Dette meiner eg ikkje heng saman med læreplanen. Verken IKT eller digital kompetanse er eit eige fagområde, det skal vere ein grunnleggjande ferdighet I FAGA. Skal ein trekkje ut digital kompetanse som eige område for testing bør ein sjølvsagt trekkje ut skriftforming, teikning, tale, osb.<br />Eg veit at Jostein Tvedte sa noko om dette på innlegget "IKT som egen satsing, eller integrert i fagene?". Håpar nokon av tilhøyrarane (ca 150 stk) kan skriva nokre ord om dette.<br /><br />Summa summarum så sit eg igjen med nokre stikkord eg ynskjer å ta med vidare:<br />1. Læraren er avgjerande for læringa, sjølv når med blandar inn IKT. <br />2. Ein oppnår meir med ein delingskultur der det er lov å vere kreativ og ta enkelte feilsteg. (Kunnskap er jo feil ein har lært noko av...)<br />3. Klare strategiar og forventningar gjennom heile organisasjonen er viktig. (Gjer som du alltid har gjort -&gt; få det du alltid har fått.). <br />4. Dei gode døma må delast. Kvar, kven og kva tid får ein meirverdi med bruk av IKT? Tradisjonelt sett trur eg ikkje at lærarar er flinke til å dela sine undervisningsopplegg og metodar. Ikkje at LMS (fronter/its) støtter deling heller... På Djanogly blir elevane sitt arbeid (videoar, bilete, nettsider +++) vist fram på informasjonsskjermar rundt om på bygget...<br /><br /><br />Fekk elles teke ein lang prat med min tidlegare mentor og no leiar for <a href='http://www.hsh.no/studier/ikt_i_laring.htm'>masterutdanninga IKT i læring</a>, <a href='http://www.hsh.no/kontakter.php?id=0000000250&amp;format=js&amp;head=yes' target='_blank'>Jostein Tvedte</a> og ikkje minst helsa på <a href='http://iktblogg.hibo.no/' target='_blank'>Tom Erik</a>.<br /><br /><b>Disclaimer: Dette referatet er skrive etter ei lang og ristande flyreise langs kysten i Nord-Noreg (Tromsø-Hammerfest-Honningsvåg-Mehamn-Vadsø-Kirkenes) og utan det store tankekartet med alle notata. Utfyllande referat, notat i tankekart eller liknande kan brått dukka opp her.<br /></b><br /><br />Presentasjonane frå konferansen skal visstnok leggjast ut.<br /><br /><br />Oppdatert 2:<br />Andre referat kan du finna hos:<br /><a href='http://tanketraader-ingunn.blogspot.com/2008/11/skolen-i-digital-utvikling-lillestrm.html' target='_blank'>Ingunn</a><br /><a href='http://junebre.blogspot.com/2008/11/world-beside.html' target='_blank'>June</a> (1, <a target='_blank' href='http://junebre.blogspot.com/2008/11/personvernkommisjonen.html'>2</a>)<br /><a href='http://oysteinj.typepad.com/weblog/' target='_blank'>Øystein</a> (<a href='671http://oysteinj.typepad.com/weblog/2008/11/skolen-i-digital-utvikling---f%C3%83%C2%B8rste-dag.html'>1</a>, <a href='http://oysteinj.typepad.com/weblog/2008/11/innlegg-om-pisa-ikt-og-kvalitet.html' target='_blank'>2</a>, <a href='96http://oysteinj.typepad.com/weblog/2008/11/bits-and-pieces-fra-skolelederkonferansen-p%C3%83%C2%A5-lillestr%C3%83%C2%B8m-i-dag.html'>3</a>)<br /><a href='http://kjetils-pedblogg.blogspot.com/2008/11/skolen-i-digital-utvikling-dag-1.html' target='_blank'>Kjetil<br /></a><a target='_blank' href='http://www.faglig.info/article.php?story=20081115210507328'>Ole</a><br /><a href='http://bjolavshjorne.blogspot.com/2008/11/skolen-i-digital-utvikling.html' target='_blank'>Bjørn Olav</a><br /><br /></div>

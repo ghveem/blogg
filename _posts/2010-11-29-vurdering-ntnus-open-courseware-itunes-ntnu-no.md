@@ -1,0 +1,26 @@
+---
+ID: 1366
+post_title: 'Vurdering:  NTNUs  Open  CourseWare  –  itunes.ntnu.no'
+author: Guttorm
+post_date: 2010-11-29 13:12:33
+post_excerpt: ""
+layout: post
+permalink: >
+  http://guttorm.hveem.no/blogg/2010/11/vurdering-ntnus-open-courseware-itunes-ntnu-no/
+published: true
+tweetbackscheck:
+  - "1310001213"
+shorturls:
+  - 'a:3:{s:9:"permalink";s:85:"http://guttorm.hveem.no/blogg/2010/11/vurdering-ntnus-open-courseware-itunes-ntnu-no/";s:7:"tinyurl";s:26:"http://tinyurl.com/35846g9";s:4:"isgd";s:19:"http://is.gd/efI5a5";}'
+twittercomments:
+  - 'a:0:{}'
+tweetcount:
+  - "0"
+tmac_last_id:
+  - ""
+dsq_thread_id:
+  - "349492355"
+post_views_count:
+  - "1047"
+---
+<div class='posterous_autopost'><div class="posterous_bookmarklet_entry"> <blockquote class="posterous_long_quote"><table border="0" style="background-color: #DCE2ED; text-align: center; padding: 3px;"><tr> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=5">Bevis for læring - kan alt vurderes?     </a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td>  </tr><tr style="background-color: white;"> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=8">Bevis for læring - kan alt vurderes?     (HD)</a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td> </tr><tr> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=6">Hva er kompetanse? </a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk Fagdidaktisk komponent </div>  		</td>  </tr><tr style="background-color: white;"> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=11">Hva er kompetanse? (HD)</a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk Fagdidaktisk komponent </div>  		</td> </tr><tr> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=4">Metoder for formativ vurdering     </a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td>  </tr><tr style="background-color: white;"> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=10">Metoder for formativ vurdering     (HD)</a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td> </tr><tr> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=3">Muntligkompetanse og klasseromssamtaler </a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td>  </tr><tr style="background-color: white;"> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=9">Muntligkompetanse og klasseromssamtaler (HD)</a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td> </tr><tr> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=2">Sosiale medier og digitale tekster     </a></b><a>  - Info - </a><div style="display: none;"><br />Hildegunn Otnes NORD6110 Nordisk Fagdidaktisk komponent </div>  		</td>  </tr><tr style="background-color: white;"> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=7">Sosiale medier og digitale tekster     (HD)</a></b><a>  - Info - </a><div style="display: none;"><br />Hildegunn Otnes NORD6110 Nordisk Fagdidaktisk komponent </div>  		</td> </tr><tr> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=1">Vurdering for læring og ledelse </a></b><a>  - Info - </a><div style="display: none;"><br />Henning Fjørtoft NORD6110 Nordisk fagdidaktisk komponent </div>  		</td>  </tr><tr style="background-color: white;"> <td><b><a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110/podcast.php?mappe=nord6110&amp;id=12">Vurdering for læring og ledelse (HD)</a></b><a>  - Info -</a></td></tr></table></blockquote>    <div class="posterous_quote_citation">via <a href="http://itunes.ntnu.no/ny/podcast.php?mappe=nord6110">itunes.ntnu.no</a></div> <p>Henning Fjørtoft legg ut videoførelesingar knytt til vurdering. Verdt å ta ein kikk på. </p><p>via: <a href="http://bestpraksis.blogspot.com/2010/11/etter-og-videreutdanning-for-norsklrere.html">http://bestpraksis.blogspot.com/2010/11/etter-og-videreutdanning-for-norsklre...</a></p></div>      <p style="font-size: 10px;">  <a href="http://posterous.com">Posted via email</a>   from <a href="http://ghveem.posterous.com/vurdering-ntnus-open-courseware-itunesntnuno">ghveem</a>  </p>  </div>

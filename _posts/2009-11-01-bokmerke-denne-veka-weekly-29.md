@@ -1,0 +1,27 @@
+---
+ID: 919
+post_title: 'Bokmerke  denne  veka  (weekly)'
+author: Guttorm
+post_date: 2009-11-01 02:32:15
+post_excerpt: ""
+layout: post
+permalink: >
+  http://guttorm.hveem.no/blogg/2009/11/bokmerke-denne-veka-weekly-29/
+published: true
+tweetbackscheck:
+  - "1309849392"
+shorturls:
+  - 'a:4:{s:9:"permalink";s:68:"http://guttorm.hveem.no/blogg/2009/11/bokmerke-denne-veka-weekly-29/";s:7:"tinyurl";s:26:"http://tinyurl.com/ylhtdro";s:4:"isgd";s:18:"http://is.gd/4JEai";s:5:"bitly";s:20:"http://bit.ly/3jKQec";}'
+twittercomments:
+  - 'a:0:{}'
+tweetcount:
+  - "0"
+tmac_last_id:
+  - "88260845229965312"
+post_views_count:
+  - "879"
+dsq_thread_id:
+  - "1073718130"
+---
+<ul class='diigo-linkroll'><li><p class='diigo-link'><a rel='nofollow' href='http://www.ssb.no/emner/04/sa_utdanning/sa111'>SA 111: Utdanning 2009 - læringsutbytte og kompetanse</a></p><p class='diigo-description'>Statistikk om skule, læringsutbytte og kompetanse.</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-ped'>ikt-ped</a>, <a href='http://www.diigo.com/user/guttorm1979/skole'>skole</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://www.macstories.net/news/a-collection-of-the-30-best-mac-apps-roundups'>A Collection Of The 30 Best Mac Apps Roundups</a></p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/mac'>mac</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://albertine.mediasogndalvgs.com/blog/?p=307'>Alb*Aab » Blog Archive » Digital kompetanseheving av lærere / HISF</a></p><p class='diigo-description'>Fire presentasjonar for kompetanseheving av lærarar</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/ikt-ped'>ikt-ped</a>, <a href='http://www.diigo.com/user/guttorm1979/evu'>evu</a>, <a href='http://www.diigo.com/user/guttorm1979/presentasjon'>presentasjon</a>, <a href='http://www.diigo.com/user/guttorm1979/kurs'>kurs</a></p><ul class='diigo-highlights'><li><div class="diigoContent"><div class="diigoContentInner">Digital kompetanseheving av lærere / HISF</div></div></li></ul></li><li><p class='diigo-link'><a rel='nofollow' href='http://www.smashingbuzz.com/2009/10/30-informative-mind-mapping-applications'>30+ Informative Mind Mapping Applications | Smashing Buzz</a></p><p class='diigo-description'>30 forskjellige grafiske organisatorar (tankekart m.m.) for MAC og web 2.0 
+Mindmanager, Xmind, Mindview, Cmap, Mindomo (med desktop klient), Mindmeister og fleire.</p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/tankekart'>tankekart</a>, <a href='http://www.diigo.com/user/guttorm1979/mindmanager'>mindmanager</a>, <a href='http://www.diigo.com/user/guttorm1979/mindmapping'>mindmapping</a></p></li><li><p class='diigo-link'><a rel='nofollow' href='http://randiolsen.blogspot.com/2009/10/hvem-sitter-fast-i-flaskehalsen-og-hvor.html'>Randi`s blogg: HVEM SITTER FAST I FLASKEHALSEN (OG HVOR TRANG ER DEN)?</a></p><p class='diigo-tags'><a style='color:#000 !important;text-decoration:none !important;' href='http://www.diigo.com/cloud/guttorm1979'>tags</a>: <a href='http://www.diigo.com/user/guttorm1979/ikt-i-læring'>ikt-i-læring</a>, <a href='http://www.diigo.com/user/guttorm1979/ikt-ped'>ikt-ped</a></p><ul class='diigo-highlights'><li><div class="diigoContent"><div class="diigoContentInner">Databruken i skolen preges i all for stor grad av idealisme og frivillighet. For mange skoleledere handler dette om holdningsendring og en aksept av den digitale pedagogiske hverdag, samt en framtidsrettet form for skoleledelse hvor IKT står sentralt både i utvikling av skolen og læring</div></div></li><li><div class="diigoContent"><div class="diigoContentInner">lærende organisasjon</div></div></li><li><div class="diigoContent"><div class="diigoContentInner">Ola Erstad påpeker tre faktorer som hindrer endring og reell skoleutvikling med tanke på IKT. A) Faktorer som hindrer at forandringer kommer inn i skolen(f.eks teknologiskepsis) Skolen etablerer dermed ikke forutsetninger for å prøve ut ny teknologi i det hele tatt. Her kan hele utviklingen ved en skole stoppe opp før den har begynt hvis flaskehalsen tettes her.  B) Faktorer som hindrer at forandringer oppstår i skolen. Det innebærer at lærere enten velger å ikke legge vekt på, eller ikke ser behovet for å ta ny teknologi inn i undervisningen. C) Faktorer som hindrer at forandringen sprer seg i skolen. Dette er institusjonelle faktorer som begrenser muligheter for  å ta i bruk ny teknologi.</div></div></li><li><div class="diigoContent"><div class="diigoContentInner">Erstad sier også et sted at den største utfordringen vi står overfor er læreres og elevers tradisjonelle oppfatning av kunnskap og læring.</div></div></li></ul></li></ul><br />Posted from <a href='http://www.diigo.com'>Diigo</a>. The rest of my <a href='http://www.diigo.com/user/guttorm1979'>favorite links</a> are here.
